@@ -1,0 +1,10 @@
+Flappy Bill!
+
+Welcome to flappy Bill, where we guide our favorite triangular overlord to safety!
+
+Here is the game:
+
+Instructions are simple
+-	press SPACE to make Bill jump
+-	Avoid pipes
+-	If you crash, try again!

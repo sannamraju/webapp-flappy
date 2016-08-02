@@ -1,0 +1,18 @@
+h1 {
+    color: black;
+    font-family: "Ostrich Sans", sans-serif;
+    font-size: 60px;
+}
+.score
+{
+  color: grey;
+}
+.gold
+{
+  color: gold;
+}
+#gameLink
+{
+  text-align: center;
+
+}
