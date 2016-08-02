@@ -83,11 +83,11 @@ function update()
 function gameOver()
 {
   registerScore(score);
-  game.state.restart();
+
 }
 /*
 function clickHandler(event)//clickHandler method definition
-{
+{s;dlkjsdlvknsd;lvknd/vlksdnv;sdlkvndslvknsd;vlkdnsv'lsdkn;.sdklnv
   posX = event.x;// value declaration of posX and posY
   posY = event.y;
 
