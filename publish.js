@@ -14,7 +14,7 @@ if (!Date.now) {
 }
 
 var name = "sannamraju";
-var email = "ashreyas@yahoo.com";
+var email = "ashreyas.sa@gmail.com";
 
 console.log("Configuring git");
 
